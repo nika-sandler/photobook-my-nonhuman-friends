@@ -6,7 +6,7 @@ In 2021, Nika self-published a photo book titled 'My Nonhuman Friends', in which
 With a total of 168 pages and dimensions of 15 by 20 cm, the hard cover features a claw from one of the artist's late cats. The number of printed copies is limited to the remaining claws.
 ## Contents
 This repository includes:
-- An archive of images from *Photobook My Nonhuman Friends* series
+- An archive of images from *My Nonhuman Friends* photobook
 - Accompanying project materials
 - License information
 ## DOI and Archiving
