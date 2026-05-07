@@ -10,7 +10,7 @@ This repository includes:
 - Accompanying project materials
 - License information
 ## DOI and Archiving
-The project is also archived on Zenodo (https://zenodo.org/records/15700872), where it has been assigned a permanent DOI for citation and long-term preservation.
+The project is also archived on Zenodo (https://doi.org/10.5281/zenodo.15700871), where it has been assigned a permanent DOI for citation and long-term preservation.
 
 Other Archives:
 
@@ -38,9 +38,17 @@ Other Archives:
 
   https://github.com/nika-sandler
 
+  https://github.com/nika-sandler/my-nonhuman-friends
+  
+  https://github.com/nika-sandler/my-nonhuman-friends-2
+  
+  https://github.com/nika-sandler/photobook-my-nonhuman-friends
+
 – Rhizome Conifer
 
   https://conifer.rhizome.org/nika-sandler
+
+  https://conifer.rhizome.org/nika-sandler/my-nonhuman-friends
 
 – Memory of Mankind
 
