@@ -52,6 +52,8 @@ Other Archives:
   
   https://github.com/nika-sandler/photobook-my-nonhuman-friends
 
+  https://github.com/nika-sandler/TIFF-My-Nonhuman-Friends
+
 – Rhizome Conifer
 
   https://conifer.rhizome.org/nika-sandler
